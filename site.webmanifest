@@ -1,11 +1,11 @@
 {
   "name": "Suryakanta Lenka — Portfolio",
   "short_name": "Suryakanta Lenka",
-  "description": "Student researcher working across edge AI, embedded systems and impact-led innovation.",
+  "description": "The portfolio of student researcher and innovator Suryakanta Lenka.",
   "start_url": "./",
   "display": "standalone",
-  "background_color": "#fbf8f1",
-  "theme_color": "#0b3442",
+  "background_color": "#f6eee3",
+  "theme_color": "#060202",
   "icons": [
     {
       "src": "assets/sl-mark.svg",

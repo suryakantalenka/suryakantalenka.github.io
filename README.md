@@ -1,11 +1,13 @@
-# Suryakanta Lenka — portfolio coming soon
+# Suryakanta Lenka — research portfolio
 
-A buildless, responsive portfolio teaser for Suryakanta Lenka. Its current visual system is inspired by the IRIS National Fair website: a dark, image-led hero; rich maroon-to-indigo gradients; Playfair Display headlines; technical monospace labels; warm paper sections; and fine, color-coded project frames.
+A buildless, responsive portfolio for Suryakanta Lenka. Its visual system is inspired by the IRIS National Fair website: a dark, image-led hero; rich maroon-to-indigo gradients; Playfair Display headlines; technical monospace labels; warm paper sections; and fine, color-coded project frames.
 
 ## Included
 
-- Portfolio coming-soon landing page
-- Selected-work previews for TurtleGuard, SeriScope and the Interactive Braille Learning System
+- Complete Home, About, Projects, Achievements, Experience and Contact sections
+- Dedicated case studies for TurtleGuard, SeriScope and the Interactive Braille Learning System
+- Eighteen filterable and expandable achievement records
+- Twelve-image keyboard- and touch-accessible achievement gallery with a full-screen viewer
 - Responsive desktop, tablet and phone layouts
 - Accessible semantic HTML and reduced-motion support
 - Social metadata, structured profile data, web manifest and custom 404 page
@@ -31,4 +33,4 @@ Then open `http://127.0.0.1:4173/`.
 
 The included `.nojekyll` file keeps GitHub Pages in static-file mode. No GitHub Actions workflow, framework, package manager or build step is required.
 
-If a custom domain is added later, configure it in GitHub Pages first and then add the generated domain to a root-level `CNAME` file.
+The root-level `CNAME` retains the custom domain `suryakantalenka.com`.
