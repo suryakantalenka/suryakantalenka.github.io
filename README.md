@@ -1,6 +1,6 @@
 # Suryakanta Lenka — portfolio coming soon
 
-A buildless, responsive portfolio teaser for Suryakanta Lenka. The visual system intentionally follows the TurtleGuard website: the same color palette, editorial typography, spacing rhythm, field-image treatment and restrained motion.
+A buildless, responsive portfolio teaser for Suryakanta Lenka. Its current visual system is inspired by the IRIS National Fair website: a dark, image-led hero; rich maroon-to-indigo gradients; Playfair Display headlines; technical monospace labels; warm paper sections; and fine, color-coded project frames.
 
 ## Included
 
